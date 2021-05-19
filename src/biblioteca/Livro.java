@@ -4,7 +4,8 @@ public class Livro {
 
 	
 	private String titulo;
-	
+	private String paginas;
+	private String autor;
 	public void emprestar() {
 		
 	}
